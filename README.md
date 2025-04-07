@@ -68,7 +68,7 @@ The dataset (`salary.csv`) is derived from the [UCI Adult Income Dataset](https:
 
 You can optionally add screenshots here:
 ```markdown
-![image](https://github.com/user-attachments/assets/12ddbc10-02c8-4b98-bc86-04b6ce30f292)
+![Capture](https://github.com/user-attachments/assets/8e7ffa56-ee82-4b3b-ac2e-ebbef6225cc3)
 
 ```
 
