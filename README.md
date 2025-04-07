@@ -68,8 +68,7 @@ The dataset (`salary.csv`) is derived from the [UCI Adult Income Dataset](https:
 
 You can optionally add screenshots here:
 ```markdown
-![Capture](https://github.com/user-attachments/assets/8e7ffa56-ee82-4b3b-ac2e-ebbef6225cc3)
-
+https://github.com/Gordon-Mensah/Income-Distribution-Dashboard/blob/main/Images/Age%20Distribution%20by%20Salary.PNG
 ```
 
 ---
