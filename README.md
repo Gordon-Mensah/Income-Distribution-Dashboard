@@ -96,6 +96,18 @@ python salary_dashboard.py
 - Deploy the dashboard online with Heroku or Streamlit
 
 ---
+## 📄 Additional Report
+
+We’ve added a detailed visual report exploring gender, work, and income patterns from the 1994 Census dataset.  
+This PDF includes charts on:
+
+- Salary distribution by gender and occupation
+- Average weekly work hours
+- Education level breakdown
+- Workclass representation by gender
+
+👉 [Click here to view the full PDF report](./Exploring%20Gender%2C%20Work%2C%20and%20Income%20Patterns%20in%20the%201994%20Census.pdf)
+
 
 ### 👨‍💻 Author
 
